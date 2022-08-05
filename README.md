@@ -1,4 +1,7 @@
-### Hi there 👋
+### Who are we?
+We help individuals enter the IT industry with zero background and knowledge of programming. In 14 weeks, you will start a new journey and be part of our 99% success rate.
+
+![venturenixlab](https://img.youtube.com/vi/YNMwhM12ZSI/0.jpg)](https://www.youtube.com/watch?v=YNMwhM12ZSI)
 
 <!--
 **venturenixlab/venturenixlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
